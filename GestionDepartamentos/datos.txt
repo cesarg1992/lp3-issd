@@ -1,14 +1,21 @@
-Dirección:direccion
-Planta:planta 2
-Número:numero
-Nombre prop.:nombre prop
-Apellido prop.:apellido prop
+Dirección:tres arroyos 2829
+Planta:5
+Número:2829
+Nombre prop.:Martin
+Apellido prop.:Guerrero
+Nombre inq.:Barragan
+Apellido inq.:Virginia
+Dirección:tres arroyos 2829
+Planta:34
+Número:2829
+Nombre prop.:Julian 
+Apellido prop.:Alvarez
 Nombre inq.: Sin datos
 Apellido inq.: Sin datos
-Dirección:direccion
-Planta:planta
-Número:numero
-Nombre prop.:nombre prop
-Apellido prop.:apellido prop
-Nombre inq.:apellido inqui
-Apellido inq.:nombre inqui
+Dirección:cinco arroyos 
+Planta:6
+Número:1839
+Nombre prop.:Martin
+Apellido prop.:Guerrero
+Nombre inq.: Sin datos
+Apellido inq.: Sin datos
