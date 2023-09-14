@@ -10,24 +10,15 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Dirección:<br />
-            Planta:<br />
-            Número:<br />
-            <br />
-            <asp:Label ID="lbl_Datos" runat="server" Text="Datos del propietario:"></asp:Label>
-            <br />
-            <asp:Label ID="lbl_Nom_Prop" runat="server" Text="Nombre"></asp:Label>
-            <br />
-            <asp:Label ID="lbl_Apll_Prop" runat="server" Text="Apellido"></asp:Label>
             <br />
             <br />
-            Datos del inquilino:<br />
-            <asp:Label ID="lbl_Nom_Inq" runat="server" Text="Nombre"></asp:Label>
-            <br />
-            <asp:Label ID="lbl_Apll_Inq" runat="server" Text="Apellido"></asp:Label>
+            <asp:Label ID="Lbl_Info" runat="server"></asp:Label>
             <br />
             <br />
         </div>
+        <p>
+            <asp:Button ID="btnVolver" runat="server" OnClick="btnVolver_Click" Text="Volver" />
+        </p>
     </form>
 </body>
 </html>

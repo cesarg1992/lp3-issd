@@ -87,6 +87,33 @@ namespace GestionDepartamentos
         protected global::System.Web.UI.WebControls.RadioButton rbr_No;
 
         /// <summary>
+        /// Control lbl_datos_inquilino.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_datos_inquilino;
+
+        /// <summary>
+        /// Control txt_Nombre_Inq.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txt_Nombre_Inq;
+
+        /// <summary>
+        /// Control txt_Apll_Inq.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txt_Apll_Inq;
+
+        /// <summary>
         /// Control btn_Cargar.
         /// </summary>
         /// <remarks>

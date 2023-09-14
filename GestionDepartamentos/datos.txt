@@ -1,0 +1,14 @@
+Dirección:direccion
+Planta:planta 2
+Número:numero
+Nombre prop.:nombre prop
+Apellido prop.:apellido prop
+Nombre inq.: Sin datos
+Apellido inq.: Sin datos
+Dirección:direccion
+Planta:planta
+Número:numero
+Nombre prop.:nombre prop
+Apellido prop.:apellido prop
+Nombre inq.:apellido inqui
+Apellido inq.:nombre inqui
