@@ -1,0 +1,42 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Formulario_de_Gestión.aspx.cs" Inherits="GestionDepartamentos.Formulario_de_Gestión" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            Cargar Nuevo Departamento:<br />
+            Dirección:
+            <asp:TextBox ID="txt_Direccion" runat="server"></asp:TextBox>
+            <br />
+            Planta:&nbsp; <asp:TextBox ID="txt_Planta" runat="server"></asp:TextBox>
+            <br />
+            Número:
+            <asp:TextBox ID="txt_Nro" runat="server"></asp:TextBox>
+            <br />
+            <br />
+            Datos del Propietario:<br />
+            Nombre:
+            <asp:TextBox ID="txt_Nomb_Prop" runat="server"></asp:TextBox>
+            <br />
+            Apellido:
+            <asp:TextBox ID="txt_Apll_Prop" runat="server"></asp:TextBox>
+            <br />
+            <br />
+            Está alquiladEstá alquilado:<br />
+            <br />
+            <asp:RadioButton ID="rbt_Si" runat="server" GroupName="Alquilado" Text="Si" />
+            <br />
+            <asp:RadioButton ID="rbr_No" runat="server" GroupName="Alquilado" Text="No" />
+            <br />
+            <br />
+            <asp:Button ID="btn_Cargar" runat="server" Text="Cargar" />
+        </div>
+    </form>
+</body>
+</html>
