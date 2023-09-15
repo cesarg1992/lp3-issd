@@ -1,14 +1,6 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Formulario_de_Gestión.aspx.cs" Inherits="GestionDepartamentos.Formulario_de_Gestión" %>
+﻿<%@ Page Title="Gestión" MasterPageFile="~/Site.Master" Language="C#" AutoEventWireup="true" CodeBehind="Formulario_de_Gestión.aspx.cs" Inherits="GestionDepartamentos.Formulario_de_Gestión" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
+<asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
         <div>
             Cargar Nuevo Departamento:<br />
             Dirección:
@@ -46,6 +38,4 @@
             <br />
             <asp:Button ID="btn_Cargar" runat="server" Text="Cargar" OnClick="btn_Cargar_Click" />
         </div>
-    </form>
-</body>
-</html>
+</asp:Content>

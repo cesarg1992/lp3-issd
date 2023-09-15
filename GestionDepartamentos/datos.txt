@@ -19,3 +19,17 @@ Nombre prop.:Martin
 Apellido prop.:Guerrero
 Nombre inq.: Sin datos
 Apellido inq.: Sin datos
+Dirección:direccion
+Planta:1
+Número:2
+Nombre prop.:nombre prop
+Apellido prop.:apellido prop
+Nombre inq.:apellido inqui
+Apellido inq.:nombre inqui
+Dirección:direccion
+Planta:1
+Número:2
+Nombre prop.:nombre prop
+Apellido prop.:apellido prop
+Nombre inq.:apellido inqui
+Apellido inq.:nombre inqui
