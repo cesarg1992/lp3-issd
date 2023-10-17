@@ -23,6 +23,7 @@ namespace Propiedades
             propietariosDataSource.Insert();
             txtNombre.Text = string.Empty;
             txtApellido.Text = string.Empty;
+            Response.Redirect("Default.aspx");
         }
     }
 }

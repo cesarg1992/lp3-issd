@@ -25,7 +25,7 @@ namespace Propiedades
             PropiedadesDataSource.Insert();
             txtAltura.Text = string.Empty;
             txtCalle.Text = string.Empty;
-            
+            Response.Redirect("Default.aspx");
         }
 
         protected void PropietariosDataSource_Selecting(object sender, SqlDataSourceSelectingEventArgs e)
